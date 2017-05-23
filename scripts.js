@@ -1,4 +1,3 @@
-
 // JavaScript to be added
 
 window.onload = function(){
@@ -8,5 +7,3 @@ window.onload = function(){
     button.innerHTML = "Thanks for your email!"
   });
 }
-
-//ver. 2
